@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
  * 
  * @author thoma
  */
-public class Prog_Volume_Cilindro {
+public class Cilindro {
     // Início da classe Prog_Volume_Cilindro
 
     public static void main(String args[]) { // Início do método principal

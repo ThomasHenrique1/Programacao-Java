@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Dimensões {
+public class dimensoes {
     public static void main(String args[]) {
         // Declaração das variáveis para armazenar altura, largura e profundidade
         float altura, largura, profundidade;

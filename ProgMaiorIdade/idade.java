@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Idade_Maior {
+public class idade {
     public static void main(String args[]) {
         // Declaração da variável para armazenar a idade
         int idade;

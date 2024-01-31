@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class somarDoisValores {
+public class SomarDoisValores {
     public static void main(String ars[]) {
         // Declaração das variáveis para armazenar os valores a serem somados
         float a, b;

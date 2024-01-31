@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Sexo {
+public class Identificador {
     public static void main(String args[]) {
         // Declaração da variável para armazenar o sexo
         char sexo;

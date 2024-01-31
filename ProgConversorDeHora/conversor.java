@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Conversor {
+public class conversor {
 
     public static void main(String args[]) {
         // Declaração das variáveis para armazenar as horas e minutos

@@ -1,7 +1,6 @@
-package com.company;
+package ProjetoAula9;
 
-public class Exerc01 {
-
+public class exercicio1 {
     public static void main(String[] args) {
         double vetor[]= {4.9,6.1,0.1,1.9,2.4,7.2,5.5};
         double v[] = vetor;
